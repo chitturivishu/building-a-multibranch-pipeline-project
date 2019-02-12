@@ -8,6 +8,8 @@ pipeline {
             steps {
                 sh 'echo "hi this akshay"'
             }
+                 }
+            }
         }
     }
 }
